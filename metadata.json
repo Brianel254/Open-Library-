@@ -1,0 +1,5 @@
+{
+  "name": "Open Library Explorer",
+  "description": "A raw, unstyled interface for searching and exploring books via the Open Library API.",
+  "requestFramePermissions": []
+}
